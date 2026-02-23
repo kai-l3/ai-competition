@@ -1,0 +1,2 @@
+# ai-competition
+contest
